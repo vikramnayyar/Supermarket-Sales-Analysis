@@ -1,17 +1,34 @@
 # Supermarket-Sales-Analysis
 
 ## Demo
-The analysis is depicted in link: https://www.kaggle.com/code/vikram92/eda-for-all-dineout-restaurants-in-india-plotly#Question-#2:-How-are-average-ratings-distributed-across-India?
+The analysis is depicted in link: https://www.kaggle.com/code/vikram92/eda-for-supermarket-sales-memberships
 
 ## Introduction
-An analysis is done on https://www.dineout.co.in/. Thus, entire Indian Dineout restaurants are analyzed. Extracting several vital informations, more than **20** visualizations are very suitably plotted.     
+An analysis is done on three supermarkets located at 'Mandalay', 'Naypyitaw' and 'Yangon' (Myanmar). Sales are analyzed in following ways
+* Region wise sales
+* Weekday-wise sales of members vs non-members
+* Weekday-wise sales of males vs females
+* Sales volume: members vs non-members
+* Sales volume: males vs females
+* Weekday-wise sales distribution: members vs non-members
+* Weekday-wise sales distribution: males vs females 
 
-The notebook evaluates regional performance and customer behaviour. 
+Following product insights are obtained 
+* most profitable items 
+* item sales vs price 
+* item ratings
+* Product-wise sales distribution: members vs non-members
+* Product-wise sales distribution: males vs females
+
+Customer preferences are determined by following 
+* Total customers vs memberships for males and females
+* Sales by payment methods: members vs non-members
+* Sales by payment methods: males vs females
+
+Thus, a comprehensive analysis is obtained for the supermarket sales. 
 
 ## Dataset
-The dataset comprises of actual information obtained from https://www.dineout.co.in/. This consists of diverse restaurants from **12** states and **22** major cities and numerous localities. 
-
-The dataset was acquired using **web scraping** with BeautifulSoup. It has **7533** rows with **8** features.   
+The dataset was obtained from Kaggle (Link: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales). This consists of the historical sales of 3 different cities 'Mandalay', 'Naypyitaw' and 'Yangon' (Myanmar). 
 
 ## Problem Statement
 With smaller staff, capital and costing requirements, the restaurant business is on a consistent rise. Ratings, cuisines, cost and location all are vital to determine a restaurant's success. 
