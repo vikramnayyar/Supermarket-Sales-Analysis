@@ -31,21 +31,21 @@ Thus, a comprehensive analysis is obtained for the supermarket sales.
 The dataset was obtained from Kaggle (Link: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales). This consists of the historical sales of 3 different cities 'Mandalay', 'Naypyitaw' and 'Yangon' (Myanmar). 
 
 ## Problem Statement
-With smaller staff, capital and costing requirements, the restaurant business is on a consistent rise. Ratings, cuisines, cost and location all are vital to determine a restaurant's success. 
+Numerous economic events and global challenges impose pressure in pricing and increase competition. Besides, with maturing online market, future trading will acutely challenge prices. Furthermore, multi-channel sales and promotions demand supermarkets to capture broader market. Therefore, managing the supermarket business is very challenging and less rewarding.  
 
-Nevertheless, awareness of these features is very challenging. Several online platforms provide restaurant reviews and ratings, but; various types of information like cuisine preferences, locality performance etc. remain unidentified. As; awareness of customer behaviour is essential, identifying a successful restaurant business becomes challenging. 
+Regardless of the adverse situation, a supermarket is required to sustain the demands of a pool of customers. With this accomplishment; a supermarket easily maintains consistent sales.  
 
-Therefore, a proper restaurant analysis is necessary to disclose the coverted insights of restaurant business. Thus, such a project is vital for restarant business. 
+Therefore, a comprehensive supermarket analysis is vital to reveal the vital insights of supermarket business. 
 
 ## Goal
-This work was performed as a personal project. The motivation was to obtain exhaustive analysis of Indian restaurant business. Regional performance and customer behaviour of all Indian Dineout restaurants is obtained. About 9 types of comprehensive analysis are accomplished. 
+An acclaimed supermarket consistently attracts large customers. Therefore; an exhaustive analysis is performed, to improve sales, item selection and customer experience. Several aspects of sales, products and customer preferences are analyzed. The subsequent insights; aid to consistently attract a pool of customers, and thus; provide consistent revenues. 
 
 ## System Environment
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 
 
-  [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/)     [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" width=200>](https://numpy.org/)     [<img target="_blank" src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" width=200>](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)     [<img target="_blank" src="https://docs.python-requests.org/en/v1.1.0/_static/requests-sidebar.png" width=100>](https://docs.python-requests.org/en/latest/)     
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/)     [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" width=200>](https://numpy.org/)     [<img target="_blank" src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" width=200>](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)     [<img target="_blank" src="https://docs.python-requests.org/en/v1.1.0/_static/requests-sidebar.png" width=100>](https://docs.python-requests.org/en/latest/)     
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" width=200>](https://plotly.com/)     [<img target="_blank" src="https://miro.medium.com/max/1400/1*QxfkTc6W2v2jpQBo-HBw0g.jpeg" width=300>](https://plotly.com/dash/)                       
 
 
