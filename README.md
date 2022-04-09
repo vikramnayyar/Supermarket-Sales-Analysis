@@ -45,7 +45,7 @@ An acclaimed supermarket consistently attracts large customers. Therefore; an ex
 
 
 
-[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/)     [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" width=200>](https://numpy.org/)     [<img target="_blank" src="https://matplotlib.org/_static/images/logo2.svg" width=200>](https://matplotlib.org/)     [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=300>](https://seaborn.pydata.org/)     [<img target="_blank" src="https://miro.medium.com/max/1300/1*2QUxAyr6J5hYCFgqh7j-dQ.png" width=200>](https://panel.holoviz.org/)     [<img target="_blank" src="https://holoviz.org/assets/hvplot.png" width=100>](https://hvplot.holoviz.org/)                       
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/)     [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" width=200>](https://numpy.org/)     [<img target="_blank" src="https://matplotlib.org/_static/images/logo2.svg" width=200>](https://matplotlib.org/)     [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=300>](https://seaborn.pydata.org/)      [<img target="_blank" src="https://miro.medium.com/max/1300/1*2QUxAyr6J5hYCFgqh7j-dQ.png" width=200>](https://panel.holoviz.org/)     [<img target="_blank" src="https://holoviz.org/assets/hvplot.png" width=100>](https://hvplot.holoviz.org/)                       
 
 
 ## Directory Structure
