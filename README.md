@@ -45,8 +45,8 @@ An acclaimed supermarket consistently attracts large customers. Therefore; an ex
 
 
 
-[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/)     [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" width=200>](https://numpy.org/)     [<img target="_blank" src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" width=200>](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)     [<img target="_blank" src="https://docs.python-requests.org/en/v1.1.0/_static/requests-sidebar.png" width=100>](https://docs.python-requests.org/en/latest/)     
-[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" width=200>](https://plotly.com/)     [<img target="_blank" src="https://miro.medium.com/max/1400/1*QxfkTc6W2v2jpQBo-HBw0g.jpeg" width=300>](https://plotly.com/dash/)                       
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/)     [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" width=200>](https://numpy.org/)     [<img target="_blank" src="https://github.com/MarcSkovMadsen/awesome-panel/blob/master/assets/images/panel-logo.png?raw=true" width=200>](https://panel.holoviz.org/)     [<img target="_blank" src="https://hvplot.holoviz.org/assets/hvplot-wm.png" width=100>](https://hvplot.holoviz.org/)     
+[<img target="_blank" src="https://matplotlib.org/_static/images/logo2.svg" width=200>](https://matplotlib.org/)     [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=300>](https://seaborn.pydata.org/)                       
 
 
 ## Directory Structure
