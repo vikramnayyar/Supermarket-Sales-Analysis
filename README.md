@@ -55,7 +55,7 @@ An acclaimed supermarket consistently attracts large customers. Therefore; an ex
 |  ├── data.csv                                    # Supermarket dataset 
 ├── notebooks                                      # Main project files
 |  ├── dashboard.ipynb                             # Notebook for creating dashboard
-|  ├── eda-for-supermarket-sales-memberships.ipynb # Notebook for EDA
+|  ├── eda-for-supermarket.ipynb                   # Notebook for EDA
 ├── visualizations                                 # Analysis visualizations
 |  ├── 01-rating-distribution.png                  # Restaurant rating distribution 
 |  ├── 02-cost-dstribution.png                     # Restaurant cost distribution
