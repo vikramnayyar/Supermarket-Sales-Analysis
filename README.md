@@ -52,13 +52,10 @@ An acclaimed supermarket consistently attracts large customers. Therefore; an ex
 
 ```bash
 ├── data                                           # Data files    
-|  ├── all_restnt_details.json                     # Details of all restaurants (Web scraping output) 
-|  ├── all_restnt_urls.csv                         # Links of all Dinoeut restaurants in India 
-|  ├── clean_data.csv                              # Cleaned dataset 
-|  ├── raw_set.csv                                 # Raw dataset (Web scraping output)
+|  ├── data.csv                                    # Supermarket dataset 
 ├── notebooks                                      # Main project files
-|  ├── data_analysis.ipynb                         # Data analysis notebook
-|  ├── web_scraping.ipynb                          # Web scraping notebook
+|  ├── dashboard.ipynb                             # Notebook for creating dashboard
+|  ├── eda-for-supermarket-sales-memberships.ipynb # Notebook for EDA
 ├── visualizations                                 # Analysis visualizations
 |  ├── 01-rating-distribution.png                  # Restaurant rating distribution 
 |  ├── 02-cost-dstribution.png                     # Restaurant cost distribution
@@ -69,15 +66,6 @@ An acclaimed supermarket consistently attracts large customers. Therefore; an ex
 |  ├── 07-rating-comparison-of-cities.png          # Rating comparison of cities
 |  ├── 08-cost-across-states.png                   # Restaurant cost distribution across states
 |  ├── 09-cost-across-cities.png                   # Restaurant cost distribution across cities
-|  ├── 10-votes-across-states.png                  # Restaurant votes distribution across states
-|  ├── 11-votes-across-cities.png                  # Restaurant votes distribution across cities
-|  ├── 12-comprehensive-comparison-of-states.png   # Performance comparison of all states   
-|  ├── 13-top-cuisines-distribution.png            # Confusion matrix of XGBClassifier  
-|  ├── 14-top-cuisines-comparison.png              # Top cuisines of respective states
-|  ├── 15-favorite-cuisines-in-India.png           # Favourite cuisines in India
-|  ├── 16-top-localities-Maharashtra.png           # Top localities in Maharashtra
-|  ├── 17-top-localities-Delhi.png                 # Top localities in Delhi
-|  ├── 18-top-localities-Karnataka.png             # Top localities in Karnataka
 ├── LICENSE                                        # License
 ├── README.md                                      # Repository description
 ├── requirements.txt                               # Required libraries
