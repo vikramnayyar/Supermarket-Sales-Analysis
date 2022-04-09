@@ -57,15 +57,7 @@ An acclaimed supermarket consistently attracts large customers. Therefore; an ex
 |  ├── dashboard.ipynb                             # Notebook for creating dashboard
 |  ├── eda-for-supermarket.ipynb                   # Notebook for EDA
 ├── visualizations                                 # Analysis visualizations
-|  ├── 01-rating-distribution.png                  # Restaurant rating distribution 
-|  ├── 02-cost-dstribution.png                     # Restaurant cost distribution
-|  ├── 03-votes-distribution.png                   # Restaurant votes distribution
-|  ├── 04-restnts-across-states.png                # Restaurant distribution across Indian states 
-|  ├── 05-restnts-across-cities.png                # Restaurant distribution across Indian cities
-|  ├── 06-rating-comparison-of-states.png          # Rating comparison of states
-|  ├── 07-rating-comparison-of-cities.png          # Rating comparison of cities
-|  ├── 08-cost-across-states.png                   # Restaurant cost distribution across states
-|  ├── 09-cost-across-cities.png                   # Restaurant cost distribution across cities
+|  ├── 01-monthly-sales.png                        # Restaurant rating distribution 
 ├── LICENSE                                        # License
 ├── README.md                                      # Repository description
 ├── requirements.txt                               # Required libraries
