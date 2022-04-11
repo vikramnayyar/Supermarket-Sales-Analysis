@@ -57,7 +57,17 @@ An acclaimed supermarket consistently attracts large customers. Therefore; an ex
 |  ├── dashboard.ipynb                             # Notebook for creating dashboard
 |  ├── eda-for-supermarket.ipynb                   # Notebook for EDA
 ├── visualizations                                 # Analysis visualizations
-|  ├── 01-monthly-sales.png                        # Restaurant rating distribution 
+|  ├── 01-monthly-sales.png                        # Monthly sales distribution od Supermarket
+|  ├── 02-monthly-sales.png                        # Region-wise monthly sales
+|  ├── 03-region-comparison.png                    # Performance comparison of regions
+|  ├── 05-product-sales-vs-rating.png              # Product sales vs price vs margin
+|  ├── 06-segment-wise-sales-.png                  # Sales comparison: members vs non-members & males vs females
+|  ├── 07-daywise-sales.png                        # Weekday-wise Supermarket sales 
+|  ├── 08-daywise-members-sale.png                 # Weekday-wise Supermarket sales: members vs non-members
+|  ├── 09-daywise-gender-sales.png                 # Weekday-wise Supermarket sales: males vs females
+|  ├── 10-category-wise-total-sales.png            # Sales contribution: members vs non-members & males vs females
+|  ├── 11-product-wise-categorical-sales.png       # Product-wise sales contribution: members vs non-members & males vs females
+|  ├── 12-payment-method-preferences.png           # Payment preferences: members vs non-members & males vs females
 ├── LICENSE                                        # License
 ├── README.md                                      # Repository description
 ├── requirements.txt                               # Required libraries
