@@ -1,7 +1,9 @@
 # Supermarket-Sales-Analysis
 
 ## Demo
-The analysis is depicted in link: https://www.kaggle.com/code/vikram92/eda-for-supermarket-sales-memberships
+Dashboard (Consumer Behaviour): https://public.tableau.com/views/yangon-supermarket-analysis/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+Dashboard (Region Comparison): https://public.tableau.com/shared/6SPZK4C3N?:display_count=n&:origin=viz_share_link
+Notebook: https://www.kaggle.com/code/vikram92/eda-for-supermarket-sales-memberships
 
 ## Introduction
 An analysis is done on three supermarkets located at 'Mandalay', 'Naypyitaw' and 'Yangon' (Myanmar). Sales are analyzed in following ways
